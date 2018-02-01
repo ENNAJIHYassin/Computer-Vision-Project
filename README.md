@@ -15,5 +15,5 @@ The project was all under my responsibility! One could safely say that I have co
 (Please refer to the png file uploaded into this repository for some sample results)
 
 
-NOTE: If you want to copy ant snipet of code from this repository, please ask permission first. As the code is not my sole propriety, it still belongs to the company in which I have done the internship.
-should you have any inquiry, please contact me here: Ennajihyassin@gmail.com
+NOTE: If you want to copy any snipet of code from this repository, please ask permission first. As the code is not my sole propriety, it still belongs to the company I have conducted this project for.
+Should you have any inquiry, I'll be happy to help: Ennajihyassin@gmail.com
